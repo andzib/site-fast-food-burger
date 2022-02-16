@@ -1,1 +1,1 @@
-# site-fast-food-burger
+# Simple HTML/CSS website.
