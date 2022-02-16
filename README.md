@@ -1,1 +1,1 @@
-# Simple HTML/CSS website.
+Simple HTML/CSS website.
